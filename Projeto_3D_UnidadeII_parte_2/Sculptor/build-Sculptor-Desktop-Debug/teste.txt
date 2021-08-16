@@ -1,0 +1,24 @@
+dim 200 200 200
+putelipsoid 25 10 15 1 5 180 105 105 105 1
+putellipsoid 25 10 15 1 5 165 0 0 0 0 0
+putellipsoid 25 10 15 1 5 140 105 105 105 1
+putellipsoid 25 10 15 1 5 110 0 0 0 0
+putellipsoid 25 10 15 1 5 65 105 105 105 1
+putellipsoid 25 10 15 1 5 45 0 0 0 0
+putellipsoid 25 10 15 1 5 25 105 105 105 1
+putellipsoid 25 10 15 1 5 15 0 0 0 1
+putsphere 25 10 15 10 220 157 40 0.8
+putsphere 25 25 15 2 196 20 40 0.8
+putsphere 25 35 20 2 50 180 150 0.8
+putsphere 25 51 35 3 0 50 150 0.5
+putsphere 25 25 78 2 250 20 40 0.8
+putsphere 25 91 90 6 255 150 0 1
+putsphere 25 146 50 5 120 125 15 0.8
+putsphere 25 62 172 4 130 200 200 0.8
+putsphere 25 75 183 4 0 0 25 0.5
+
+
+
+
+
+
